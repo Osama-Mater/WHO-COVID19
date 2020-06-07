@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WHO COVID19</string>
+    <string name="welcome">Swipe right to continue</string>
+    <string name="country_situation">\'s Situation in Numbers</string>
+    <string name="confirmed_case">Confirmed Case</string>
+    <string name="total_deaths"> Total Deaths</string>
+</resources>
